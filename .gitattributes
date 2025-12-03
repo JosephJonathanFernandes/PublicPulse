@@ -1,0 +1,55 @@
+# Auto detect text files and perform LF normalization
+* text=auto
+
+# Source code
+*.dart text diff=dart
+*.java text diff=java
+*.kt text diff=kotlin
+*.swift text diff=swift
+*.m text diff=objc
+*.h text diff=objc
+
+# Configuration files
+*.json text
+*.yaml text
+*.yml text
+*.xml text
+*.gradle text
+*.properties text
+*.plist text
+
+# Documentation
+*.md text
+*.txt text
+LICENSE text
+README text
+
+# Scripts
+*.sh text eol=lf
+*.bat text eol=crlf
+*.ps1 text eol=crlf
+
+# Graphics
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.ico binary
+*.svg text
+
+# Archives
+*.jar binary
+*.zip binary
+*.tar binary
+*.gz binary
+*.apk binary
+*.ipa binary
+
+# Fonts
+*.ttf binary
+*.otf binary
+*.woff binary
+*.woff2 binary
+
+# Other
+*.pdf binary

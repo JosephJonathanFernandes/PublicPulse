@@ -1,0 +1,11 @@
+blank_issues_enabled: false
+contact_links:
+  - name: 💬 Discussions
+    url: https://github.com/JosephJonathanFernandes/PublicPulse/discussions
+    about: Ask questions and discuss ideas with the community
+  - name: 📖 Documentation
+    url: https://github.com/JosephJonathanFernandes/PublicPulse/blob/main/README.md
+    about: Read the project documentation
+  - name: 🔒 Security Issues
+    url: https://github.com/JosephJonathanFernandes/PublicPulse/blob/main/SECURITY.md
+    about: Report security vulnerabilities privately
