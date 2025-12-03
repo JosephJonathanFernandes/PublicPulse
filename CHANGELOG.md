@@ -19,7 +19,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [1.0.0] - 2025-12-03
 
 ### Added
-- Initial release of PublicPulse
+- Initial release of PublicPulse (DBMQP Course Project)
+- Developed by team: Joseph Jonathan Fernandes, Giselle, and Avin
 - User authentication (citizen and admin roles)
 - Citizen features:
   - Sign up and login

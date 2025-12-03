@@ -6,7 +6,13 @@
 [![Firebase](https://img.shields.io/badge/Firebase-Latest-FFCA28?style=flat&logo=firebase)](https://firebase.google.com)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
-PublicPulse is a modern mobile application that bridges the gap between citizens and government authorities, enabling efficient complaint management and resolution tracking. Built with Flutter and Firebase, it provides a seamless experience for citizens to report issues and administrators to manage them effectively.
+PublicPulse is a modern mobile application developed as part of the **DBMQP (Database Management and Query Processing)** course project. This comprehensive solution bridges the gap between citizens and government authorities, enabling efficient complaint management and resolution tracking. Built with Flutter and Firebase, it provides a seamless experience for citizens to report issues and administrators to manage them effectively.
+
+**Developed by:**
+- Giselle Cassandra Fernandes
+- Avin  Krishna Kapolkar
+- Joseph Jonathan Fernandes ([@JosephJonathanFernandes](https://github.com/JosephJonathanFernandes))
+
 
 ## ✨ Features
 
@@ -136,14 +142,21 @@ We welcome contributions! Please see [CONTRIBUTING.md](CONTRIBUTING.md) for deta
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 👥 Authors
+## 👥 Project Team
 
+This project was developed as part of the **DBMQP (Database Management and Query Processing)** course.
+
+**Team Members:**
 - **Joseph Jonathan Fernandes** - [@JosephJonathanFernandes](https://github.com/JosephJonathanFernandes)
+- **Giselle** - Team Member & Developer
+- **Avin** - Team Member & Developer
 
 ## 🙏 Acknowledgments
 
+- **DBMQP Course Instructors** for guidance and support
 - Flutter team for the amazing framework
 - Firebase for backend infrastructure
+- Our teammates Giselle and Avin for their collaboration and contributions
 - All contributors who help improve PublicPulse
 
 ## 📞 Support
@@ -165,7 +178,7 @@ For support, please:
 
 ## 📱 Screenshots
 
-_Coming soon - Screenshots will be added in future updates_
+Screenshots and detailed visual documentation can be found in the `documentation_of_lifecycle_of_project/` folder.
 
 ---
 
